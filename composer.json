@@ -35,6 +35,9 @@
             "HTTP_Request2" : ""
         }
     },
+    "include-path": [
+        "./"
+    ],
     "autoload-dev": {
         "classmap": ["tests"]
     }
