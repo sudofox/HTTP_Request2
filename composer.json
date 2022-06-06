@@ -1,5 +1,5 @@
 {
-    "name"        : "pear/http_request2",
+    "name"        : "sudofox/http_request2",
     "description" : "Provides an easy way to perform HTTP requests.",
     "type"        : "library",
     "keywords"    : [ "http", "request", "pear", "curl" ],
